@@ -75,7 +75,7 @@ Specifically:
 * Python2 in not longer supported.  
 * FreeCAD NodeEditor is compatible with the original PyFlow@wonderworks-software without extra modifications (though we recommend using [@microelly2's fork](https://github.com/microelly2/PyFlow) nonetheless)
 
-## Install
+## Installation
 
 Install the following packages into the local Module directory `~/.FreeCAD/Mod`
 
